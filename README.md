@@ -77,6 +77,3 @@
 💡 **Dica extra:**
 Se esquecer algum atalho, pressione `Ctrl + Shift + A`, digite o nome da ação (ex: *rename*, *format code*, *run*), e o IntelliJ mostra o atalho certinho.
 
----
-
-Quer que eu gere uma **versão colorida em PDF**, com ícones e separadores de seção — ideal pra imprimir ou usar como pôster de referência rápida?
